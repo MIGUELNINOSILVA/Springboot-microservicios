@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.miguel</groupId>
-	<artifactId>jobsms</artifactId>
+	<artifactId>companysms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jobsms</name>
+	<name>companysms</name>
 	<description>Micro servicio que representa los trabajos</description>
 	<url/>
 	<licenses>
